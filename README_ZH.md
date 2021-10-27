@@ -26,14 +26,14 @@ Good Culling 是华为公司 HMS Core 组件 Scene Kit 的一个组成部分，�
 
 ## 场景展示
 本示例代码中的场景中共有4个物体，运行时场景图如下：
-![scene_front.jpg](image\scene_front.jpg)
+![scene_front.jpg](image/scene_front.jpg)
 同时，场景的侧面图如下：
-![scene_side.jpg](image\scene_side.jpg)
+![scene_side.jpg](image/scene_side.jpg)
 
 ## 运行结果
 
 输出android log:
-![log.PNG](image\log.PNG)
+![log.PNG](image/log.PNG)
 
 说明：1表示未被遮挡，0表示被遮挡。
 
