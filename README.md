@@ -6,7 +6,7 @@ English | [中文](README_ZH.md)
 
 * [Introduction](#introduction)
 * [Supported Environments](#supported-environments)
-* [Scene](#Scene)
+* [Scene](#scene)
 * [Result](#result)
 * [License](#license)
 
@@ -26,14 +26,14 @@ Good Culling is a part of Scene Kit, a component of the Huawei HMS Core. This sa
 ## Scene
 
 In the scene of this SampleCode demo, there are 4 objects. The following graphic shows the front view of the scene, the same view when running the application:
-![scene_front.jpg](image\scene_front.jpg)
+![scene_front.jpg](image/scene_front.jpg)
 In the same time the side view of the scene is as the follows:
-![scene_side.jpg](image\scene_side.jpg)
+![scene_side.jpg](image/scene_side.jpg)
 
 ## Result
 
 android logout:
-![log.PNG](image\log.PNG)
+![log.PNG](image/log.PNG)
 
 notice：the result 1 means not being occludeed, the result 0 means being occludeed. 
 
