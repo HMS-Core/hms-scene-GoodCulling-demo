@@ -16,7 +16,7 @@ Good Culling is a part of Scene Kit, a component of the Huawei HMS Core. This sa
 
 ## Supported-Environments
 
-* AndroidStuido 3.5.2 or a later version is recommended.
+* AndroidStuido 3.6.1 or a later version is recommended.
 * Java SDK 1.8 or later
 * Gradle 4.0 or later
 * NDK 21.0.6113669 or later
