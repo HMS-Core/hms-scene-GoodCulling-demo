@@ -17,7 +17,7 @@ Good Culling 是华为公司 HMS Core 组件 Scene Kit 的一个组成部分，�
 
 ## 开发环境
 
-* Android Stuido 3.5.2及以上版本
+* Android Stuido 3.6.1及以上版本
 * JDK 1.8及以上版本
 * Gradle 4.0及以上版本
 * NDK 21.0.6113669及以上版本
