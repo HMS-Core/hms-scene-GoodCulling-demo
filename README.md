@@ -8,6 +8,7 @@ English | [中文](README_ZH.md)
 * [Supported Environments](#supported-environments)
 * [Scene](#scene)
 * [Result](#result)
+* [Question or issues](#question-or-issues)
 * [License](#license)
 
 ## Introduction
@@ -43,8 +44,7 @@ notice：the result 1 means not being occludeed, the result 0 means being occlud
 
 ## Question or issues
 
-If you want to evaluate more about HMS Core,
-[r/HMSCore on Reddit](https://www.reddit.com/r/HuaweiDevelopers/) is for you to keep up with latest news about HMS Core, and to exchange insights with other developers.
+If you want to evaluate more about HMS Core, [Reddit](https://www.reddit.com/r/HuaweiDevelopers/) is for you to keep up with latest news about HMS Core, and to exchange insights with other developers.
 
 If you have questions about how to use HMS samples, try the following options:
 
